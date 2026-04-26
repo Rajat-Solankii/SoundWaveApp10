@@ -30,7 +30,7 @@ SoundWave is a feature-rich music player designed to bring together all your fav
 
 ## 📥 Installation
 
-1.  Navigate to the [Releases](https://github.com/Rajat-Solankii/SoundWaveApp/releases) section.
+1.  Navigate to the [Releases](https://github.com/Rajat-Solankii/SoundWaveApp10/releases) section.
 2.  Download the latest `SoundWave.apk`.
 3.  Open the APK on your Android device and follow the installation prompts.
     *   *Note: You may need to "Allow installation from unknown sources" in your device settings.*
