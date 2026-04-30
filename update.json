@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp10/releases/download/v1.0.0/SoundWave.apk",
-  "releaseNotes": "🎵 Full Playlist Fetching & Enhanced Discovery\n\n- Remote playlists now fetch all songs using pagination.\n- Home screen mixes expanded to 100 songs.\n- Smart radio recommendations increased to 50 tracks.\n- Fixed a crash on the Home screen for new users.",
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp10/releases/download/v1.1.0/SoundWave.apk",
+  "releaseNotes": "🎵 Corrected Search Queue\n\n- Added Add to Library option on home playlists\n",
   "forceUpdate": false
 }
