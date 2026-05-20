@@ -3,5 +3,5 @@
   "versionName": "1.2.0",
   "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp10/releases/download/v1.2.0/SoundWave.apk",
   "releaseNotes": "- Optimized rapid skipping speed\n- Enhanced network stability & buffering\n- Fixed Liked Songs queue generation\n- Faster loading on weak connections",
-  "forceUpdate": true
+  "forceUpdate": false
 }
